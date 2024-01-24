@@ -1,6 +1,27 @@
-years_old_of_Laura = 22.8
-years_old_of_Alex = 24
+a = 22.8
+b = 24
+str_example = 'hhhhh'
 
-age_difference = years_old_of_Alex-years_old_of_Laura
+bool_example = True
 
-print(age_difference, type(years_old_of_Laura), type(years_old_of_Alex))
+c = a-b
+
+d = a+b
+
+z = a*b
+
+v = a/b
+
+
+print('Вычитание чисел a и b:', c)
+
+print('Сложение чисел a и b:', d)
+
+print('Умножение чисел a и b:', z)
+
+print('Деление чисел a и b:', v)
+
+
+
+
+
